@@ -6,7 +6,7 @@ This repository contains the functional validation and logic schematics for the 
 **Author:** Lubos Hric  
 **ORCID:** [0003-0003-6280-5074](https://orcid.org/0003-0003-6280-5074)  
 **Main Theory (Vol 1):** [DOI: 10.5281/zenodo.19136463](https://doi.org/10.5281/zenodo.19136463)  
-**Validation (Vol 2):** [INSERT YOUR NEW VOL 2 DOI HERE]
+**Validation (Vol 2):** (https://doi.org/10.5281/zenodo.19137689)
 
 ## 🚀 Overview
 QRIAF is a 12-layer epistemic audit designed to solve "Deceptive Alignment" in AGI systems. This repository provides the **STC (Stress-Test-to-Convergence)** engine, which achieves a **99.4% detection rate** for strategic hallucinations by subjecting AI outputs to high-entropy Shadow Scenarios.
