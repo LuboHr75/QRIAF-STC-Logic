@@ -4,7 +4,7 @@
 This repository contains the functional validation and logic schematics for the **Quantum-Relativistic Information AI Research Framework (QRIAF) Volume 2**.
 
 **Author:** Lubos Hric  
-**ORCID:** [0003-0003-6280-5074](https://orcid.org/0003-0003-6280-5074)  
+**ORCID:** [0009-0003-6280-5074](https://orcid.org/0009-0003-6280-5074)  
 **Main Theory (Vol 1):** [DOI: 10.5281/zenodo.19136463](https://doi.org/10.5281/zenodo.19136463)  
 **Validation (Vol 2):** (https://doi.org/10.5281/zenodo.19137689)
 
